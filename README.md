@@ -1,5 +1,5 @@
 📝 Aplikasi Todo List Berbasis FastAPI
-Deskripsi Proyek
+
 Aplikasi Todo List adalah REST API berbasis FastAPI yang digunakan untuk manajemen tugas pribadi dengan sistem autentikasi pengguna menggunakan JWT.
 Proyek ini dikembangkan sebagai Project Akhir Mata Kuliah dengan tujuan menerapkan konsep backend modern, keamanan API, dan arsitektur berlapis.
 
